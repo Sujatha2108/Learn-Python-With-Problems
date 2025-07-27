@@ -19,6 +19,7 @@ Here, I’ve challenged myself to solve Two Python problem every day for 50 days
 ## 🗂️ Folder Structure
 
 Each problem is saved as:`DayXX_Problem_Title.py`
+
 Example: `Day01_Print_Hello_World.py`
 
 Each file includes:
@@ -183,7 +184,7 @@ This is a solo learning journey, but feel free to ⭐ the repo if you find it us
 
 ---
 
-> 🌟 Star this repo to support the journey and follow along as I level up my Python skills — one problem at a time!
+> 🌟 Star this repo to support the journey and follow along as I level up my Python skills — two problem at a time!
 
 ---
 
