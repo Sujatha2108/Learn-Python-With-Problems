@@ -9,6 +9,12 @@ Here, I’ve challenged myself to solve Two Python problem every day for 50 days
 
 ## 🎯 Goals
 
+
+-📅 Goal: Solve 2 problems/day
+-🏁 Duration: 50 Days
+-🔁 Track: Updated here daily
+-📂 Each problem has its own file with solution and explanation
+
 - 🔁 Develop daily Python problem-solving habit  
 - 🧠 Strengthen logical & analytical thinking  
 - 🧪 Improve Python coding skills  
@@ -140,19 +146,7 @@ Each file includes:
 
 
 
-## 📌 How to Use
 
-- Each file is named by day and problem title.
-- Replace `🛠️ Pending` with ✅ once you complete a problem.
-- Update the progress bar manually or via a script.
-
----
-
-## 📈 Goal
-
-Complete all 100 Python problems while learning and improving problem-solving techniques.
-
----
 
 ## 🤝 Contribute
 
@@ -164,7 +158,7 @@ This is a solo learning journey, but feel free to ⭐ the repo if you find it us
 
 - Started on: `2025-07-27`
 - Last updated: `2025-07-27`
-- Current Progress: `0 / 100`
+- Current Progress: `2/ 100`
 
 ---
 
