@@ -6,14 +6,18 @@ Welcome to my personal repository **Learn-Python-With-Problems**!
 Here, I’ve challenged myself to solve Two Python problem every day for 50 days to master core concepts, improve coding logic, and build the habit of consistent problem-solving.
 
 ---
+## 🎯 Challenge Plan
+
+- 📅 **Goal**: Solve 2 Python problems each day  
+- 🏁 **Timeline**: Complete 100 problems in 50 days  
+- 🔄 **Progress Tracking**: This README is updated daily with completed problems  
+- 📂 **File Structure**: Each problem is saved as an individual `.py` file and includes:
+  - Problem description  
+  - Python solution  
+  - Logic explained through comments  
+
 
 ## 🎯 Goals
-
-
--📅 Goal: Solve 2 problems/day
--🏁 Duration: 50 Days
--🔁 Track: Updated here daily
--📂 Each problem has its own file with solution and explanation
 
 - 🔁 Develop daily Python problem-solving habit  
 - 🧠 Strengthen logical & analytical thinking  
