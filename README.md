@@ -53,10 +53,10 @@ Each file includes:
 | 4   | Check Even or Odd                          | [Day04_Check_Even_or_Odd.py](Day04_Check_Even_or_Odd.py) | ✅ completed     |
 | 5   | Check Prime Number                         | [Day05_Prime_Number_Check.py](Day05_Prime_Number_Check.py) |  ✅ completed     |
 | 6   | Find Factorial of a Number                 | [Day06_Factorial.py](Day06_Factorial.py)   |    ✅ completed    |
-| 7   | Fibonacci Sequence up to n                 | [Day07_Fibonacci_Series.py](Day07_Fibonacci_Series.py) |   🛠️ Pending     |
-| 8   | Reverse a Number                           | [Day08_Reverse_Number.py](Day08_Reverse_Number.py) |  🛠️ Pending     |
-| 9   | Palindrome Number                          | [Day09_Palindrome_Check.py](Day09_Palindrome_Check.py) | 🛠️ Pending |
-| 10  | Count Digits in a Number                   | [Day10_Count_Digits.py](Day10_Count_Digits.py) |  🛠️ Pending     |
+| 7   | Fibonacci Sequence up to n                 | [Day07_Fibonacci_Series.py](Day07_Fibonacci_Series.py) |   ✅ completed    |
+| 8   | Reverse a Number                           | [Day08_Reverse_Number.py](Day08_Reverse_Number.py) |  ✅ completed    |
+| 9   | Palindrome Number                          | [Day09_Palindrome_Check.py](Day09_Palindrome_Check.py) | ✅ completed |
+| 10  | Count Digits in a Number                   | [Day10_Count_Digits.py](Day10_Count_Digits.py) |  ✅ completed     |
 | 11  | Armstrong Number Check                     | [Day11_Armstrong_Number.py](Day11_Armstrong_Number.py) | 🛠️ Pending       |
 | 12  | Print All Primes Between 1 to 100          | [Day12_Print_Primes_1_to_100.py](Day12_Print_Primes_1_to_100.py) | 🛠️ Pending       |
 | 13  | Sum of Digits of a Number                  | [Day13_Sum_of_Digits.py](Day13_Sum_of_Digits.py) |   🛠️ Pending     |
