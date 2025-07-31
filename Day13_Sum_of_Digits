@@ -1,0 +1,17 @@
+def sumdigits():
+    num = int(input("Enter a Number: "))
+    count = 0
+    total=0
+    n = abs(num)  
+    if n == 0:
+        count = 1 
+        total = 0 
+    else:
+        while n != 0:
+            digit = n%10
+            total += digit
+            count += 1
+            n=n//10
+    print(f"Sum of digits:{total}")
+    print(f"Count of digits: {count}")
+sumdigits()
