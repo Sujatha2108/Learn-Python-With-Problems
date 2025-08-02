@@ -62,8 +62,8 @@ Each file includes:
 | 13  | Sum of Digits of a Number                  | [Day13_Sum_of_Digits.py](Day13_Sum_of_Digits.py) |   ✅ completed      |
 | 14  | GCD of Two Numbers                         | [Day14_GCD.py](Day14_GCD.py)               | ✅ completed        |
 | 15  | LCM of Two Numbers                         | [Day15_LCM.py](Day15_LCM.py)               |  ✅ completed       |
-| 16  | Swap Two Numbers Without Temp Variable     | [Day16_Swap_Two_Numbers.py](Day16_Swap_Two_Numbers.py) | 🛠️ Pending     |
-| 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  🛠️ Pending     |
+| 16  | Swap Two Numbers Without Temp Variable     | [Day16_Swap_Two_Numbers.py](Day16_Swap_Two_Numbers.py) | ✅ completed       |
+| 17  | Convert Celsius to Fahrenheit              | [Day17_Celsius_to_Fahrenheit.py](Day17_Celsius_to_Fahrenheit.py) |  ✅ completed     |
 | 18  | Check Leap Year                            | [Day18_Leap_Year_Check.py](Day18_Leap_Year_Check.py) |  🛠️ Pending      |
 | 19  | Calculator using Functions                 | [Day19_Calculator_Functions.py](Day19_Calculator_Functions.py) |   🛠️ Pending     |
 | 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  🛠️ Pending      |
