@@ -67,8 +67,8 @@ Each file includes:
 | 18  | Check Leap Year                            | [Day18_Leap_Year_Check.py](Day18_Leap_Year_Check.py) |   ✅ completed     |
 | 19  | Calculator using Functions                 | [Day19_Calculator_Functions.py](Day19_Calculator_Functions.py) |   ✅ completed     |
 | 20  | ASCII Value of a Character                 | [Day20_ASCII_Value.py](Day20_ASCII_Value.py) |  ✅ completed      |
-| 21  | Number to Binary, Octal, and Hexadecimal   | [Day21_Number_Conversion.py](Day21_Number_Conversion.py) | 🛠️ Pending      |
-| 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  🛠️ Pending      |
+| 21  | Number to Binary, Octal, and Hexadecimal   | [Day21_Number_Conversion.py](Day21_Number_Conversion.py) | ✅ completed       |
+| 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  ✅ completed      |
 | 23  | Print Star Pattern                         | [Day23_Star_Pattern.py](Day23_Star_Pattern.py) | 🛠️ Pending      |
 | 24  | Count Vowels and Consonants                | [Day24_Count_Vowels_Consonants.py](Day24_Count_Vowels_Consonants.py) |  🛠️ Pending     |
 | 25  | Remove Punctuation from String             | [Day25_Remove_Punctuation.py](Day25_Remove_Punctuation.py) | 🛠️ Pending      |
