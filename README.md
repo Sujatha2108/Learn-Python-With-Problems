@@ -71,10 +71,10 @@ Each file includes:
 | 22  | Sum of First N Natural Numbers             | [Day22_Sum_N_Natural.py](Day22_Sum_N_Natural.py) |  ✅ completed      |
 | 23  | Print Star Pattern                         | [Day23_Star_Pattern.py](Day23_Star_Pattern.py) |  ✅ completed     |
 | 24  | Count Vowels and Consonants                | [Day24_Count_Vowels_Consonants.py](Day24_Count_Vowels_Consonants.py) |   ✅ completed    |
-| 25  | Remove Punctuation from String             | [Day25_Remove_Punctuation.py](Day25_Remove_Punctuation.py) | 🛠️ Pending      |
-| 26  | Reverse a String                           | [Day26_Reverse_String.py](Day26_Reverse_String.py) | 🛠️ Pending      |
-| 27  | Count Words in a Sentence                  | [Day27_Count_Words.py](Day27_Count_Words.py) |  🛠️ Pending      |
-| 28  | Capitalize First Letter of Each Word       | [Day28_Capitalize_Words.py](Day28_Capitalize_Words.py) |  🛠️ Pending     |
+| 25  | Remove Punctuation from String             | [Day25_Remove_Punctuation.py](Day25_Remove_Punctuation.py) |  ✅ completed       |
+| 26  | Reverse a String                           | [Day26_Reverse_String.py](Day26_Reverse_String.py) |  ✅ completed    |
+| 27  | Count Words in a Sentence                  | [Day27_Count_Words.py](Day27_Count_Words.py) |   ✅ completed    |
+| 28  | Capitalize First Letter of Each Word       | [Day28_Capitalize_Words.py](Day28_Capitalize_Words.py) |   ✅ completed     |
 | 29  | Replace Substring in String                | [Day29_Replace_Substring.py](Day29_Replace_Substring.py) |  🛠️ Pending      |
 | 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |  🛠️ Pending     |
 | 31  | Find Second Largest Element in List        | 🚧 Coming Soon...                           | 🛠️ Pending   |
