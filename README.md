@@ -75,8 +75,8 @@ Each file includes:
 | 26  | Reverse a String                           | [Day26_Reverse_String.py](Day26_Reverse_String.py) |  ✅ completed    |
 | 27  | Count Words in a Sentence                  | [Day27_Count_Words.py](Day27_Count_Words.py) |   ✅ completed    |
 | 28  | Capitalize First Letter of Each Word       | [Day28_Capitalize_Words.py](Day28_Capitalize_Words.py) |   ✅ completed     |
-| 29  | Replace Substring in String                | [Day29_Replace_Substring.py](Day29_Replace_Substring.py) |  🛠️ Pending      |
-| 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |  🛠️ Pending     |
+| 29  | Replace Substring in String                | [Day29_Replace_Substring.py](Day29_Replace_Substring.py) |   ✅ completed     |
+| 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |   ✅ completed     |
 | 31  | Find Second Largest Element in List        | 🚧 Coming Soon...                           | 🛠️ Pending   |
 | 32  | Find Duplicates in a List                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
 | 33  | Merge Two Sorted Lists                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
