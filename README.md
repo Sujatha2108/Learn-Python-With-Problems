@@ -77,76 +77,77 @@ Each file includes:
 | 28  | Capitalize First Letter of Each Word       | [Day28_Capitalize_Words.py](Day28_Capitalize_Words.py) |   ✅ completed     |
 | 29  | Replace Substring in String                | [Day29_Replace_Substring.py](Day29_Replace_Substring.py) |   ✅ completed     |
 | 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |   ✅ completed     |
-| 31  | Find Second Largest Element in List        | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 32  | Find Duplicates in a List                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 33  | Merge Two Sorted Lists                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 34  | Sort List using Bubble Sort                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 35  | Find Common Elements in Two Lists          | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 36  | Remove All Duplicates from List            | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 37  | Find Frequency of Elements in List         | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 38  | Linear Search in List                      | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 39  | Binary Search (Recursive and Iterative)    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 40  | Count Even and Odd Numbers in List         | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 41  | Find Min and Max in List                   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 42  | Palindrome String Check                    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 43  | Anagram Check                              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 44  | Check Pangram                              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 45  | Remove Spaces from String                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 46  | Longest Word in Sentence                   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 47  | Check Isomorphic Strings                   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 48  | Recursive Factorial                        | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 49  | Recursive Fibonacci                        | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 50  | Recursively Reverse a String               | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 51  | Power of a Number using Recursion          | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 52  | Sum of Digits using Recursion              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 53  | Count Vowels using Recursion               | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 54  | Flatten Nested List                        | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 55  | Count Frequency using Dictionary           | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 56  | Most Frequent Element in List              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 57  | Merge Dictionaries                         | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 58  | Sort Dictionary by Value                   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 59  | Convert Two Lists into Dictionary          | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 60  | Extract Unique Values from List of Dicts   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 61  | Set Operations (Union, Intersection)       | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 62  | Symmetric Difference Between Sets          | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 63  | Check Subset and Superset                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 64  | Matching Pairs in a List                   | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 65  | Tuple to List and Vice Versa               | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 66  | Rotate List by K Elements                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 67  | Check if List is Sorted                    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 68  | Sublist with Given Sum                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 69  | Generate All Substrings                    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 70  | Caesar Cipher (Basic Encryption)           | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 71  | Kadane’s Algorithm                         | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 72  | Two Sum Problem                            | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 73  | Longest Common Prefix                      | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 74  | Longest Palindromic Substring              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 75  | Missing Number in List                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 76  | Merge Intervals                            | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 77  | Majority Element                           | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 78  | Move All Zeros to End                      | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 79  | Dutch National Flag Problem                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 80  | In-Place Matrix Transpose                  | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 81  | Spiral Matrix Traversal                    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 82  | Pascal’s Triangle                          | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 83  | Subarray with Given Sum                    | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 84  | Sliding Window Maximum                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 85  | Check Balanced Parentheses                 | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 86  | Evaluate Postfix Expression                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 87  | Infix to Postfix Conversion                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 88  | Valid Parentheses Combinations             | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 89  | N-th Fibonacci using Memoization           | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 90  | Binary to Decimal and Vice Versa           | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 91  | Count Set Bits in Binary Number            | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 92  | Tower of Hanoi                             | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 93  | Sudoku Board Validity Check                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 94  | Implement Queue using Stack                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 95  | Implement Stack using Queue                | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 96  | Detect Cycle in a List                     | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 97  | Find Intersection Point of Two Lists       | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 98  | First Non-Repeating Character              | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 99  | Longest Increasing Subsequence             | 🚧 Coming Soon...                           | 🛠️ Pending   |
-| 100 | Dijkstra’s Algorithm for Shortest Path     | 🚧 Coming Soon...                           | 🛠️ Pending   |
+| 31  | Find Second Largest Element in a List      | [Day31_Second_Largest_in_List.py](Day31_Second_Largest_in_List.py) | 🛠️ Pending |
+| 32  | Find Duplicates in a List                  | [Day32_Find_Duplicates_in_List.py](Day32_Find_Duplicates_in_List.py) | 🛠️ Pending |
+| 33  | Merge Two Sorted Lists                     | [Day33_Merge_Two_Sorted_Lists.py](Day33_Merge_Two_Sorted_Lists.py) | 🛠️ Pending |
+| 34  | Sort List Using Bubble Sort                | [Day34_Bubble_Sort_List.py](Day34_Bubble_Sort_List.py) | 🛠️ Pending |
+| 35  | Find Common Elements in Two Lists          | [Day35_Common_Elements_in_Lists.py](Day35_Common_Elements_in_Lists.py) | 🛠️ Pending |
+| 36  | Remove All Duplicates from a List          | [Day36_Remove_Duplicates_from_List.py](Day36_Remove_Duplicates_from_List.py) | 🛠️ Pending |
+| 37  | Find Frequency of Elements in a List       | [Day37_Frequency_of_Elements_in_List.py](Day37_Frequency_of_Elements_in_List.py) | 🛠️ Pending |
+| 38  | Linear Search in a List                    | [Day38_Linear_Search_in_List.py](Day38_Linear_Search_in_List.py) | 🛠️ Pending |
+| 39  | Binary Search (Recursive & Iterative)      | [Day39_Binary_Search.py](Day39_Binary_Search.py) | 🛠️ Pending |
+| 40  | Count Even and Odd Numbers in a List       | [Day40_Count_Even_Odd_in_List.py](Day40_Count_Even_Odd_in_List.py) | 🛠️ Pending |
+| 41  | Find Minimum and Maximum in a List         | [Day41_Min_Max_in_List.py](Day41_Min_Max_in_List.py) | 🛠️ Pending |
+| 42  | Palindrome String Check                    | [Day42_Palindrome_String.py](Day42_Palindrome_String.py) | 🛠️ Pending |
+| 43  | Check if Two Strings are Anagrams          | [Day43_Anagram_Check.py](Day43_Anagram_Check.py) | 🛠️ Pending |
+| 44  | Pangram String Check                       | [Day44_Pangram_Check.py](Day44_Pangram_Check.py) | 🛠️ Pending |
+| 45  | Remove All Spaces from a String            | [Day45_Remove_Spaces.py](Day45_Remove_Spaces.py) | 🛠️ Pending |
+| 46  | Find Longest Word in a Sentence            | [Day46_Longest_Word_in_Sentence.py](Day46_Longest_Word_in_Sentence.py) | 🛠️ Pending |
+| 47  | Check Isomorphic Strings                   | [Day47_Isomorphic_Strings.py](Day47_Isomorphic_Strings.py) | 🛠️ Pending |
+| 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | 🛠️ Pending |
+| 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | 🛠️ Pending |
+| 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | 🛠️ Pending |
+| 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | 🛠️ Pending |
+| 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) | 🛠️ Pending |
+| 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | 🛠️ Pending |
+| 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | 🛠️ Pending |
+| 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | 🛠️ Pending |
+| 56  | Find Most Frequent Element in a List       | [Day56_Most_Frequent_Element.py](Day56_Most_Frequent_Element.py) | 🛠️ Pending |
+| 57  | Merge Two Dictionaries                     | [Day57_Merge_Dictionaries.py](Day57_Merge_Dictionaries.py) | 🛠️ Pending |
+| 58  | Sort Dictionary by Values                  | [Day58_Sort_Dictionary_by_Values.py](Day58_Sort_Dictionary_by_Values.py) | 🛠️ Pending |
+| 59  | Convert Two Lists into a Dictionary        | [Day59_Lists_to_Dict.py](Day59_Lists_to_Dict.py) | 🛠️ Pending |
+| 60  | Extract Unique Values from List of Dictionaries | [Day60_Unique_Values_from_List_of_Dicts.py](Day60_Unique_Values_from_List_of_Dicts.py) | 🛠️ Pending |
+| 61  | Set Operations (Union & Intersection)      | [Day61_Set_Operations.py](Day61_Set_Operations.py) | 🛠️ Pending |
+| 62  | Symmetric Difference Between Two Sets      | [Day62_Symmetric_Difference.py](Day62_Symmetric_Difference.py) | 🛠️ Pending |
+| 63  | Check Subset and Superset                  | [Day63_Subset_Superset_Check.py](Day63_Subset_Superset_Check.py) | 🛠️ Pending |
+| 64  | Find Matching Pairs in a List              | [Day64_Matching_Pairs_in_List.py](Day64_Matching_Pairs_in_List.py) | 🛠️ Pending |
+| 65  | Convert Tuple to List and Vice Versa       | [Day65_Tuple_List_Conversion.py](Day65_Tuple_List_Conversion.py) | 🛠️ Pending |
+| 66  | Rotate List by K Positions                 | [Day66_Rotate_List_by_K.py](Day66_Rotate_List_by_K.py) | 🛠️ Pending |
+| 67  | Check if a List is Sorted                  | [Day67_Check_List_Sorted.py](Day67_Check_List_Sorted.py) | 🛠️ Pending |
+| 68  | Find Sublist with a Given Sum              | [Day68_Sublist_with_Sum.py](Day68_Sublist_with_Sum.py) | 🛠️ Pending |
+| 69  | Generate All Substrings of a String        | [Day69_Generate_Substrings.py](Day69_Generate_Substrings.py) | 🛠️ Pending |
+| 70  | Implement Caesar Cipher Encryption         | [Day70_Caesar_Cipher.py](Day70_Caesar_Cipher.py) | 🛠️ Pending |
+| 71  | Maximum Subarray Sum (Kadane’s Algorithm)  | [Day71_Kadanes_Algorithm.py](Day71_Kadanes_Algorithm.py) | 🛠️ Pending |
+| 72  | Two Sum Problem                            | [Day72_Two_Sum.py](Day72_Two_Sum.py) | 🛠️ Pending |
+| 73  | Find Longest Common Prefix                 | [Day73_Longest_Common_Prefix.py](Day73_Longest_Common_Prefix.py) | 🛠️ Pending |
+| 74  | Longest Palindromic Substring              | [Day74_Longest_Palindromic_Substring.py](Day74_Longest_Palindromic_Substring.py) | 🛠️ Pending |
+| 75  | Find Missing Number in a List              | [Day75_Missing_Number.py](Day75_Missing_Number.py) | 🛠️ Pending |
+| 76  | Merge Overlapping Intervals                | [Day76_Merge_Intervals.py](Day76_Merge_Intervals.py) | 🛠️ Pending |
+| 77  | Find Majority Element in a List            | [Day77_Majority_Element.py](Day77_Majority_Element.py) | 🛠️ Pending |
+| 78  | Move All Zeros to the End of List          | [Day78_Move_Zeros_to_End.py](Day78_Move_Zeros_to_End.py) | 🛠️ Pending |
+| 79  | Dutch National Flag Problem                | [Day79_Dutch_National_Flag.py](Day79_Dutch_National_Flag.py) | 🛠️ Pending |
+| 80  | In-Place Transpose of a Matrix             | [Day80_Inplace_Transpose_Matrix.py](Day80_Inplace_Transpose_Matrix.py) | 🛠️ Pending |
+| 81  | Spiral Matrix Traversal                    | [Day81_Spiral_Matrix_Traversal.py](Day81_Spiral_Matrix_Traversal.py) | 🛠️ Pending |
+| 82  | Generate Pascal’s Triangle                 | [Day82_Pascals_Triangle.py](Day82_Pascals_Triangle.py) | 🛠️ Pending |
+| 83  | Find Subarray with Given Sum               | [Day83_Subarray_with_Sum.py](Day83_Subarray_with_Sum.py) | 🛠️ Pending |
+| 84  | Sliding Window Maximum                     | [Day84_Sliding_Window_Maximum.py](Day84_Sliding_Window_Maximum.py) | 🛠️ Pending |
+| 85  | Check for Balanced Parentheses             | [Day85_Balanced_Parentheses.py](Day85_Balanced_Parentheses.py) | 🛠️ Pending |
+| 86  | Evaluate Postfix Expression                | [Day86_Evaluate_Postfix.py](Day86_Evaluate_Postfix.py) | 🛠️ Pending |
+| 87  | Convert Infix Expression to Postfix        | [Day87_Infix_to_Postfix.py](Day87_Infix_to_Postfix.py) | 🛠️ Pending |
+| 88  | Generate Valid Parentheses Combinations    | [Day88_Valid_Parentheses_Combinations.py](Day88_Valid_Parentheses_Combinations.py) | 🛠️ Pending |
+| 89  | N-th Fibonacci Number Using Memoization    | [Day89_Fibonacci_Memoization.py](Day89_Fibonacci_Memoization.py) | 🛠️ Pending |
+| 90  | Binary to Decimal and Decimal to Binary Conversion | [Day90_Binary_Decimal_Conversion.py](Day90_Binary_Decimal_Conversion.py) | 🛠️ Pending |
+| 91  | Count Set Bits in a Binary Number          | [Day91_Count_Set_Bits.py](Day91_Count_Set_Bits.py) | 🛠️ Pending |
+| 92  | Solve Tower of Hanoi Problem               | [Day92_Tower_of_Hanoi.py](Day92_Tower_of_Hanoi.py) | 🛠️ Pending |
+| 93  | Validate Sudoku Board                      | [Day93_Sudoku_Validity_Check.py](Day93_Sudoku_Validity_Check.py) | 🛠️ Pending |
+| 94  | Implement Queue Using Two Stacks           | [Day94_Queue_Using_Stacks.py](Day94_Queue_Using_Stacks.py) | 🛠️ Pending |
+| 95  | Implement Stack Using Two Queues           | [Day95_Stack_Using_Queues.py](Day95_Stack_Using_Queues.py) | 🛠️ Pending |
+| 96  | Detect Cycle in a Linked List              | [Day96_Detect_Cycle_Linked_List.py](Day96_Detect_Cycle_Linked_List.py) | 🛠️ Pending |
+| 97  | Find Intersection Node of Two Linked Lists | [Day97_Intersection_of_Linked_Lists.py](Day97_Intersection_of_Linked_Lists.py) | 🛠️ Pending |
+| 98  | First Non-Repeating Character in a String  | [Day98_First_NonRepeating_Character.py](Day98_First_NonRepeating_Character.py) | 🛠️ Pending |
+| 99  | Longest Increasing Subsequence             | [Day99_Longest_Increasing_Subsequence.py](Day99_Longest_Increasing_Subsequence.py) | 🛠️ Pending |
+| 100 | Dijkstra’s Algorithm for Shortest Path     | [Day100_Dijkstras_Algorithm.py](Day100_Dijkstras_Algorithm.py) | 🛠️ Pending |
+
 
 
 
