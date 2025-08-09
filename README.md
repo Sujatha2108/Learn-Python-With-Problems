@@ -77,8 +77,8 @@ Each file includes:
 | 28  | Capitalize First Letter of Each Word       | [Day28_Capitalize_Words.py](Day28_Capitalize_Words.py) |   ✅ completed     |
 | 29  | Replace Substring in String                | [Day29_Replace_Substring.py](Day29_Replace_Substring.py) |   ✅ completed     |
 | 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |   ✅ completed     |
-| 31  | Find Second Largest Element in a List      | [Day31_Second_Largest_in_List.py](Day31_Second_Largest_in_List.py) | 🛠️ Pending |
-| 32  | Find Duplicates in a List                  | [Day32_Find_Duplicates_in_List.py](Day32_Find_Duplicates_in_List.py) | 🛠️ Pending |
+| 31  | Find Second Largest Element in a List      | [Day31_Second_Largest_in_List.py](Day31_Second_Largest_in_List.py) | ✅ completed|
+| 32  | Find Duplicates in a List                  | [Day32_Find_Duplicates_in_List.py](Day32_Find_Duplicates_in_List.py) |✅ completed |
 | 33  | Merge Two Sorted Lists                     | [Day33_Merge_Two_Sorted_Lists.py](Day33_Merge_Two_Sorted_Lists.py) | 🛠️ Pending |
 | 34  | Sort List Using Bubble Sort                | [Day34_Bubble_Sort_List.py](Day34_Bubble_Sort_List.py) | 🛠️ Pending |
 | 35  | Find Common Elements in Two Lists          | [Day35_Common_Elements_in_Lists.py](Day35_Common_Elements_in_Lists.py) | 🛠️ Pending |
