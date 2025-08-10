@@ -79,8 +79,8 @@ Each file includes:
 | 30  | Find Frequency of Characters               | [Day30_Char_Frequency.py](Day30_Char_Frequency.py) |   ✅ completed     |
 | 31  | Find Second Largest Element in a List      | [Day31_Second_Largest_in_List.py](Day31_Second_Largest_in_List.py) | ✅ completed|
 | 32  | Find Duplicates in a List                  | [Day32_Find_Duplicates_in_List.py](Day32_Find_Duplicates_in_List.py) |✅ completed |
-| 33  | Merge Two Sorted Lists                     | [Day33_Merge_Two_Sorted_Lists.py](Day33_Merge_Two_Sorted_Lists.py) | 🛠️ Pending |
-| 34  | Sort List Using Bubble Sort                | [Day34_Bubble_Sort_List.py](Day34_Bubble_Sort_List.py) | 🛠️ Pending |
+| 33  | Merge Two Sorted Lists                     | [Day33_Merge_Two_Sorted_Lists.py](Day33_Merge_Two_Sorted_Lists.py) | ✅ completed|
+| 34  | Sort List Using Bubble Sort                | [Day34_Bubble_Sort_List.py](Day34_Bubble_Sort_List.py) |✅ completed |
 | 35  | Find Common Elements in Two Lists          | [Day35_Common_Elements_in_Lists.py](Day35_Common_Elements_in_Lists.py) | 🛠️ Pending |
 | 36  | Remove All Duplicates from a List          | [Day36_Remove_Duplicates_from_List.py](Day36_Remove_Duplicates_from_List.py) | 🛠️ Pending |
 | 37  | Find Frequency of Elements in a List       | [Day37_Frequency_of_Elements_in_List.py](Day37_Frequency_of_Elements_in_List.py) | 🛠️ Pending |
