@@ -83,8 +83,8 @@ Each file includes:
 | 34  | Sort List Using Bubble Sort                | [Day34_Bubble_Sort_List.py](Day34_Bubble_Sort_List.py) |✅ completed |
 | 35  | Find Common Elements in Two Lists          | [Day35_Common_Elements_in_Lists.py](Day35_Common_Elements_in_Lists.py) | ✅ completed |
 | 36  | Remove All Duplicates from a List          | [Day36_Remove_Duplicates_from_List.py](Day36_Remove_Duplicates_from_List.py) | ✅ completed |
-| 37  | Find Frequency of Elements in a List       | [Day37_Frequency_of_Elements_in_List.py](Day37_Frequency_of_Elements_in_List.py) | 🛠️ Pending |
-| 38  | Linear Search in a List                    | [Day38_Linear_Search_in_List.py](Day38_Linear_Search_in_List.py) | 🛠️ Pending |
+| 37  | Find Frequency of Elements in a List       | [Day37_Frequency_of_Elements_in_List.py](Day37_Frequency_of_Elements_in_List.py) | ✅ completed |
+| 38  | Linear Search in a List                    | [Day38_Linear_Search_in_List.py](Day38_Linear_Search_in_List.py) | ✅ completed |
 | 39  | Binary Search (Recursive & Iterative)      | [Day39_Binary_Search.py](Day39_Binary_Search.py) | 🛠️ Pending |
 | 40  | Count Even and Odd Numbers in a List       | [Day40_Count_Even_Odd_in_List.py](Day40_Count_Even_Odd_in_List.py) | 🛠️ Pending |
 | 41  | Find Minimum and Maximum in a List         | [Day41_Min_Max_in_List.py](Day41_Min_Max_in_List.py) | 🛠️ Pending |
