@@ -85,10 +85,10 @@ Each file includes:
 | 36  | Remove All Duplicates from a List          | [Day36_Remove_Duplicates_from_List.py](Day36_Remove_Duplicates_from_List.py) | ✅ completed |
 | 37  | Find Frequency of Elements in a List       | [Day37_Frequency_of_Elements_in_List.py](Day37_Frequency_of_Elements_in_List.py) | ✅ completed |
 | 38  | Linear Search in a List                    | [Day38_Linear_Search_in_List.py](Day38_Linear_Search_in_List.py) | ✅ completed |
-| 39  | Binary Search (Recursive & Iterative)      | [Day39_Binary_Search.py](Day39_Binary_Search.py) | 🛠️ Pending |
-| 40  | Count Even and Odd Numbers in a List       | [Day40_Count_Even_Odd_in_List.py](Day40_Count_Even_Odd_in_List.py) | 🛠️ Pending |
-| 41  | Find Minimum and Maximum in a List         | [Day41_Min_Max_in_List.py](Day41_Min_Max_in_List.py) | 🛠️ Pending |
-| 42  | Palindrome String Check                    | [Day42_Palindrome_String.py](Day42_Palindrome_String.py) | 🛠️ Pending |
+| 39  | Binary Search (Recursive & Iterative)      | [Day39_Binary_Search.py](Day39_Binary_Search.py) | ✅ completed |
+| 40  | Count Even and Odd Numbers in a List       | [Day40_Count_Even_Odd_in_List.py](Day40_Count_Even_Odd_in_List.py) | ✅ completed |
+| 41  | Find Minimum and Maximum in a List         | [Day41_Min_Max_in_List.py](Day41_Min_Max_in_List.py) | ✅ completed |
+| 42  | Palindrome String Check                    | [Day42_Palindrome_String.py](Day42_Palindrome_String.py) | ✅ completed |
 | 43  | Check if Two Strings are Anagrams          | [Day43_Anagram_Check.py](Day43_Anagram_Check.py) | 🛠️ Pending |
 | 44  | Pangram String Check                       | [Day44_Pangram_Check.py](Day44_Pangram_Check.py) | 🛠️ Pending |
 | 45  | Remove All Spaces from a String            | [Day45_Remove_Spaces.py](Day45_Remove_Spaces.py) | 🛠️ Pending |
