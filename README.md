@@ -89,10 +89,10 @@ Each file includes:
 | 40  | Count Even and Odd Numbers in a List       | [Day40_Count_Even_Odd_in_List.py](Day40_Count_Even_Odd_in_List.py) | ✅ completed |
 | 41  | Find Minimum and Maximum in a List         | [Day41_Min_Max_in_List.py](Day41_Min_Max_in_List.py) | ✅ completed |
 | 42  | Palindrome String Check                    | [Day42_Palindrome_String.py](Day42_Palindrome_String.py) | ✅ completed |
-| 43  | Check if Two Strings are Anagrams          | [Day43_Anagram_Check.py](Day43_Anagram_Check.py) | 🛠️ Pending |
-| 44  | Pangram String Check                       | [Day44_Pangram_Check.py](Day44_Pangram_Check.py) | 🛠️ Pending |
-| 45  | Remove All Spaces from a String            | [Day45_Remove_Spaces.py](Day45_Remove_Spaces.py) | 🛠️ Pending |
-| 46  | Find Longest Word in a Sentence            | [Day46_Longest_Word_in_Sentence.py](Day46_Longest_Word_in_Sentence.py) | 🛠️ Pending |
+| 43  | Check if Two Strings are Anagrams          | [Day43_Anagram_Check.py](Day43_Anagram_Check.py) | ✅ completed  |
+| 44  | Pangram String Check                       | [Day44_Pangram_Check.py](Day44_Pangram_Check.py) | ✅ completed  |
+| 45  | Remove All Spaces from a String            | [Day45_Remove_Spaces.py](Day45_Remove_Spaces.py) | ✅ completed  |
+| 46  | Find Longest Word in a Sentence            | [Day46_Longest_Word_in_Sentence.py](Day46_Longest_Word_in_Sentence.py) | ✅ completed  |
 | 47  | Check Isomorphic Strings                   | [Day47_Isomorphic_Strings.py](Day47_Isomorphic_Strings.py) | 🛠️ Pending |
 | 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | 🛠️ Pending |
 | 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | 🛠️ Pending |
