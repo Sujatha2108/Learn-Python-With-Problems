@@ -93,8 +93,8 @@ Each file includes:
 | 44  | Pangram String Check                       | [Day44_Pangram_Check.py](Day44_Pangram_Check.py) | ✅ completed  |
 | 45  | Remove All Spaces from a String            | [Day45_Remove_Spaces.py](Day45_Remove_Spaces.py) | ✅ completed  |
 | 46  | Find Longest Word in a Sentence            | [Day46_Longest_Word_in_Sentence.py](Day46_Longest_Word_in_Sentence.py) | ✅ completed  |
-| 47  | Check Isomorphic Strings                   | [Day47_Isomorphic_Strings.py](Day47_Isomorphic_Strings.py) | 🛠️ Pending |
-| 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | 🛠️ Pending |
+| 47  | Check Isomorphic Strings                   | [Day47_Isomorphic_Strings.py](Day47_Isomorphic_Strings.py) | ✅ completed |
+| 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | ✅ completed |
 | 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | 🛠️ Pending |
 | 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | 🛠️ Pending |
 | 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | 🛠️ Pending |
