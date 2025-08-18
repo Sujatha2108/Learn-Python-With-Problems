@@ -95,8 +95,8 @@ Each file includes:
 | 46  | Find Longest Word in a Sentence            | [Day46_Longest_Word_in_Sentence.py](Day46_Longest_Word_in_Sentence.py) | ✅ completed  |
 | 47  | Check Isomorphic Strings                   | [Day47_Isomorphic_Strings.py](Day47_Isomorphic_Strings.py) | ✅ completed |
 | 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | ✅ completed |
-| 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | 🛠️ Pending |
-| 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | 🛠️ Pending |
+| 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | ✅ completed |
+| 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | ✅ completed |
 | 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | 🛠️ Pending |
 | 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) | 🛠️ Pending |
 | 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | 🛠️ Pending |
