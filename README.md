@@ -97,8 +97,8 @@ Each file includes:
 | 48  | Factorial Using Recursion                  | [Day48_Recursive_Factorial.py](Day48_Recursive_Factorial.py) | ✅ completed |
 | 49  | Fibonacci Series Using Recursion           | [Day49_Recursive_Fibonacci.py](Day49_Recursive_Fibonacci.py) | ✅ completed |
 | 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | ✅ completed |
-| 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | 🛠️ Pending |
-| 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) | 🛠️ Pending |
+| 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | ✅ completed  |
+| 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) |✅ completed |
 | 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | 🛠️ Pending |
 | 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | 🛠️ Pending |
 | 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | 🛠️ Pending |
