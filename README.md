@@ -99,8 +99,8 @@ Each file includes:
 | 50  | Reverse a String Using Recursion           | [Day50_Recursive_Reverse_String.py](Day50_Recursive_Reverse_String.py) | ✅ completed |
 | 51  | Power of a Number Using Recursion          | [Day51_Recursive_Power.py](Day51_Recursive_Power.py) | ✅ completed  |
 | 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) |✅ completed |
-| 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | 🛠️ Pending |
-| 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | 🛠️ Pending |
+| 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | ✅ completed |
+| 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | ✅ completed|
 | 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | 🛠️ Pending |
 | 56  | Find Most Frequent Element in a List       | [Day56_Most_Frequent_Element.py](Day56_Most_Frequent_Element.py) | 🛠️ Pending |
 | 57  | Merge Two Dictionaries                     | [Day57_Merge_Dictionaries.py](Day57_Merge_Dictionaries.py) | 🛠️ Pending |
