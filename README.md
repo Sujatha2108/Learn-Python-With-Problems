@@ -101,8 +101,8 @@ Each file includes:
 | 52  | Sum of Digits Using Recursion              | [Day52_Recursive_Sum_of_Digits.py](Day52_Recursive_Sum_of_Digits.py) |✅ completed |
 | 53  | Count Vowels Using Recursion               | [Day53_Recursive_Count_Vowels.py](Day53_Recursive_Count_Vowels.py) | ✅ completed |
 | 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | ✅ completed|
-| 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | 🛠️ Pending |
-| 56  | Find Most Frequent Element in a List       | [Day56_Most_Frequent_Element.py](Day56_Most_Frequent_Element.py) | 🛠️ Pending |
+| 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | ✅ completed |
+| 56  | Find Most Frequent Element in a List       | [Day56_Most_Frequent_Element.py](Day56_Most_Frequent_Element.py) | ✅ completed |
 | 57  | Merge Two Dictionaries                     | [Day57_Merge_Dictionaries.py](Day57_Merge_Dictionaries.py) | 🛠️ Pending |
 | 58  | Sort Dictionary by Values                  | [Day58_Sort_Dictionary_by_Values.py](Day58_Sort_Dictionary_by_Values.py) | 🛠️ Pending |
 | 59  | Convert Two Lists into a Dictionary        | [Day59_Lists_to_Dict.py](Day59_Lists_to_Dict.py) | 🛠️ Pending |
