@@ -103,8 +103,8 @@ Each file includes:
 | 54  | Flatten a Nested List                      | [Day54_Flatten_Nested_List.py](Day54_Flatten_Nested_List.py) | ✅ completed|
 | 55  | Count Frequency of Words Using Dictionary  | [Day55_Word_Frequency_Dict.py](Day55_Word_Frequency_Dict.py) | ✅ completed |
 | 56  | Find Most Frequent Element in a List       | [Day56_Most_Frequent_Element.py](Day56_Most_Frequent_Element.py) | ✅ completed |
-| 57  | Merge Two Dictionaries                     | [Day57_Merge_Dictionaries.py](Day57_Merge_Dictionaries.py) | 🛠️ Pending |
-| 58  | Sort Dictionary by Values                  | [Day58_Sort_Dictionary_by_Values.py](Day58_Sort_Dictionary_by_Values.py) | 🛠️ Pending |
+| 57  | Merge Two Dictionaries                     | [Day57_Merge_Dictionaries.py](Day57_Merge_Dictionaries.py) |✅ completed |
+| 58  | Sort Dictionary by Values                  | [Day58_Sort_Dictionary_by_Values.py](Day58_Sort_Dictionary_by_Values.py) | ✅ completed |
 | 59  | Convert Two Lists into a Dictionary        | [Day59_Lists_to_Dict.py](Day59_Lists_to_Dict.py) | 🛠️ Pending |
 | 60  | Extract Unique Values from List of Dictionaries | [Day60_Unique_Values_from_List_of_Dicts.py](Day60_Unique_Values_from_List_of_Dicts.py) | 🛠️ Pending |
 | 61  | Set Operations (Union & Intersection)      | [Day61_Set_Operations.py](Day61_Set_Operations.py) | 🛠️ Pending |
